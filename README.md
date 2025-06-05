@@ -1,23 +1,15 @@
 <h1 align="left">Hi, I'm Cezary 👋</h1>
-I'm a student of **Applied Computer Science** at the **Cracow University of Technology**.
+I'm a student of **Applied Computer Science** at the **Cracow University of Technology** and I am currently pursuing a degree
 
 <p align="center">∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙</p>
 
 Currently, I collaborate with a team on **mobile app development**, focusing on frontend design while integrating it seamlessly with backend services.
 <br/>
-Additionally, I work on backend development utilizing **Java** and **Spring** frameworks, and I’m involved in projects related to **machine learning**.
+Additionally, I work on backend development utilizing **Java** and **Spring** frameworks, and I am actively expanding my knowledge in **machine learning**.
 
 <p align="center">∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙</p>
 
-My **engineering thesis** centers on **cybersecurity**, with an emphasis on penetration testing and system hardening using various tools across **Linux**, **Windows**, and **Kali Linux** environments.
-
-
-
-
-
-
-
-
+My **engineering thesis** is dedicated to **cybersecurity**, with a focus on penetration testing and system hardening techniques, applying a variety of tools across **Linux**, **Windows**, and **Kali Linux** environments.
 
 
 
