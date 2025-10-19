@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Cezary 👋</h1>
-I'm a student of **Applied Computer Science** at the **Cracow University of Technology** and I am currently pursuing a degree
+<h1 align="left">Hi, I'm Cezary </h1>
+I'm a student of Applied Computer Science at the **Cracow University of Technology** and I am currently pursuing a degree
 
 <p align="center">∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙   ∙</p>
 
@@ -16,7 +16,7 @@ My **engineering thesis** is dedicated to **cybersecurity**, with a focus on pen
 
 ---
 
-<h3 align="left">📫 Contact Me</h3>
+<h3 align="left"> Contact Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/cezary-kochanski09" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -25,7 +25,7 @@ My **engineering thesis** is dedicated to **cybersecurity**, with a focus on pen
 
 ---
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+<h3 align="left"> Technologies & Tools</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
